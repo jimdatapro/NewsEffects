@@ -1,0 +1,7 @@
+streamlit
+langchain[community]
+langchain_google_genai
+googlesearch-python
+requests
+readability-lxml
+beautifulsoup4
